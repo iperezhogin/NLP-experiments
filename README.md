@@ -1,6 +1,6 @@
 # NLP-experiments
 
-## Rosatom_docs.ipynb
+## Rosatom_docs.ipynb - helper with context search in documentation
 **The purpose of this software module (it is a part of a project) is a context search within the regulations documentation**
 
 ### Stages:
@@ -14,5 +14,5 @@
 5. ranking the fragments of the regulations documentation by similarity with textual search request
 6. preparation of composed textual output.
 
-## Troitsk_queriesLDA
+## Troitsk_queriesLDA.ipynb - topic modelling on online citizen queries to the City Head. Visualization, statistics, interpretation.
 **In this project the citizen queries of Troitsk (Moscow) to the City Head are parsed from the city site. After preprocessing of the queries texts, LDA topic modelling was performed. In the Jupyter notebook in this directory you can see WordCloud visualization of topics, statistics on most relevant topics, seasonal topic frerquency and topics arised by most active users**
