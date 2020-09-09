@@ -1,7 +1,7 @@
 # NLP-experiments
 
 ## Rosatom_docs.ipynb - helper with context search in documentation
-**The purpose of this software module (it is a part of a project) is a context search within the regulations documentation**
+**The purpose of this software module is a context search within the regulations documentation**
 
 ### Stages:
 1. documentation processing (here reading and parsing .rtf-files)
