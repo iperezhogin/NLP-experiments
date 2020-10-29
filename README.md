@@ -4,7 +4,7 @@
 **The purpose of this software module is a context search within the regulations documentation**
 
 ### Stages:
-1. documentation processing (here reading and parsing .rtf-files)
+1. documentation processing (reading and parsing .rtf-files)
 2. (Russian) text preprocessing:
 - dividing into relevant fragments (by means of line tokenization - line tokenizer, nltk)
 - word tokenization, stop-word removing (nltk)
